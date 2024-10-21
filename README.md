@@ -1,6 +1,8 @@
 # About
 A comprehensive e-commerce platform with distinct customer and admin interfaces, featuring user authentication, secure payment processing, product management, and a fully responsive design for seamless shopping across devices.
 
+Link : https://e-commerce-logz.onrender.com/  
+"It may take a few extra seconds to load as it is deployed on a free plan on Render."
 ## Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, Axios
