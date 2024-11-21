@@ -3,6 +3,13 @@ A comprehensive e-commerce platform with distinct customer and admin interfaces,
 
 Link : https://e-commerce-logz.onrender.com/  
 "It may take a few extra seconds to load as it is deployed on a free plan on Render."
+
+
+<img src="./page1.png" width="500" style="margin-right: 10px;"/>
+<img src="./page2.png" width="500" style="margin-right: 10px;"/>
+<img src="./page3.png" width="500" style="margin-right: 10px;" />
+<img src="./page4.png" width="500" style="margin-right: 10px;"/>
+
 ## Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, Axios
